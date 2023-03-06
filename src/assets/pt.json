@@ -1,0 +1,13 @@
+  {
+    "titre": "Consulta de CNPJ Brasileiros",
+    "soustitre":"Digite a empresa que você procura",
+    "nomDomaine": "Nome",
+    "champDescriptif": "Descrição",
+    "champDate": "Data de Abertura",
+    "champDetat": "UF",
+    "champQuartier": "Bairro",
+    "champPostal": "CEP",
+    "champTelephone": "TELEFONE"
+
+
+  }

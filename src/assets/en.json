@@ -1,0 +1,13 @@
+  {
+    "titre": "Consultation of Brazilian CNPJ",
+    "soustitre":"Enter the company you are looking for",
+    "nomDomaine": "Name",
+    "champDescriptif": "Description",
+    "champDate": "Opening date",
+    "champDetat": "Stadte",
+    "champQuartier": "District",
+    "champPostal": "Zip code",
+    "champTelephone": "Telephone"
+
+
+  }

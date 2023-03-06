@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda:wght@400;800&display=swap');
+header {
+    width: 90%;
+    margin: 0 auto;
+    height: 10vh;
+    background-color: #fff;
+    position: relative;
+    padding: 10px 5%;
+    box-shadow: 5px 5px 5px #ccc;
+
+}
+.flags{
+  float: right;
+  list-style: none;
+  width: 20%;
+  height: 9vh;
+}
+.flags li{
+ float: left;
+ cursor: pointer;
+ width: 30%;
+ height: 9vh;
+}
+.flags li img {
+  height: 40px;
+  width: 40px;
+}
+header img {
+   width: 6%;
+   margin-top: 0%;
+}
+header h1 {
+  float: right;
+  font-family: 'Coda';
+}
+section{
+    width: 90%;
+    height: 90vh;
+    background: url('../../../assets/img/bg.jpg');
+    background-size: cover;
+    background-position: fixed;
+    padding: 5vh 5%;
+}
+section p {
+    font-family: 'Coda';
+    font-size: 1.2em;
+    display: inline-block;
+}
+.formBox {
+    display: inline-block;
+    margin-left: 6% ;
+    width: 60%;
+}
+.formBox input[type='text']{
+    width: 40%;
+    height: 30px;
+    padding-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+.consultar {
+    padding: 0 28px;
+    height: 35px;
+    font-size: 1.1em;
+    border-radius: 20px;
+    border: 0px solid red;
+    box-shadow: 3px 3px  5px #ccc;
+    color: #fff;
+    cursor: pointer;
+    background: linear-gradient(90deg, #FF2D04 0%, #C13216 100%);
+}
+
+.result p {
+    display: block;
+}
+
+.img-perfil {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
